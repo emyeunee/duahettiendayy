@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới Thiệu Sở Thích</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #007bff;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Giới Thiệu Bản Thân</h1>
+    </header>
+    <div class="container">
+        <h2>Chào mừng bạn đến với thế giới của tôi!</h2>
+        <p>
+            Hí lô các bạn. Đây là trang web được tạo ra trong giờ tin học vì thầy Hạ kêu mình làm. Nội dung của web này đương nhiên là về minh, và sau đây là một số thông tin đơn giản về Hồng Khuyên chill gơ aka emyeunee:
+        </p>
+        <h3>1. Favorite game: </h3>
+        <p>
+            Hayday- vì game cho mình xây dựng trang trại yêu thích và làm nông dân😘
+            Liên Quân- vì mình đánh Natalya rất kịch trần và là một mid laner lý tưởng😍
+            Valorant- vì game này rất là ảo ma sibachao dù toxic nhưng rất xả sì chét🙂
+        </p>
+        <h3>2. Favorite music/singer: </h3>
+        <p>
+            Music in my veins. Mình rất thích Sơn Tùng, mê Chillies, love BRay và The Neighbourhood
+            Type của mình thường là có tiếng Guitar và Drum nhìu, đôi khi nghe hợp tai là được và lời thấm hơn Kotex
+        </p>
+        <h3>3. Bản thân</h3>
+        <p>
+            Mình thẳng và độc thân các bạn nhế
+        </p>
+        <h3>4. Favorite Food</h3>
+        <p>
+            Mình siêu thích ăn các loại bánh ngọt nhé như Tiramissu, Mousse và v..v..
+        </p>
+        <h3>5. Sports</h3>
+        <p>
+            Mình chơi cũng được chỉ là lười tí.
+            Mình biết choii: Bóng bàn, Cầu lông, Bóng chuyền, Đá cầu,...cũng hay đạp xe và chạy bộ
+            Đặc biệt là rất thíc dánh cờ nhé câc bạn!!! Cờ rì cũng phan
+        </p>
+        <footer>
+            <p>© 2025 - Website của tôi | Cảm ơn bạn đã stalk!</p>
+        </footer>
+    </div>
+</body>
+</html>
